@@ -21,7 +21,8 @@ Brain.Decode('Python')
 > Protfolio & Social Media
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230a66c2.svg?&style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sydsrsmrz/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23e87a22.svg?&style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/19121443/soroush-mirzaei)\
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23e87a22.svg?&style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/19121443/soroush-mirzaei)
+[![Medium](https://img.shields.io/badge/Medium-%23eca200.svg?&style=flat&logo=Medium&logoColor=white)](https://medium.com/@soroushmirzaei)\
 [![Twitter](https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sydsrsmrz)
 [![Instagram](https://img.shields.io/badge/Instagram-%23cf004b.svg?&style=flat&logo=Instagram&logoColor=white)](https://instagram.com/sydsrsmrz)
 
